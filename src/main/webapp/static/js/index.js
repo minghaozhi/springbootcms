@@ -36,9 +36,10 @@ layui.config({
             title: false,
             closeBtn: true,
             shadeClose: false,
-            shade: 0.15,
-            area: ['500px', '357px'],
-            content: '<img src="/static/img/dianzhan.jpg"/>'
+            shade:0.15,
+            area: ['524px', '751px'],
+            maxmin: true,
+            content: '<img src="/static/img/pay.png"/>'
         })
     });
 
