@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<%@include file="/templates/comm/mytags.jsp" %>
+<%@include file="/comm/mytags.jsp" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -163,22 +163,22 @@
         <h1>
 
             <em>温馨提示：</em>
-            <span id="tit">404-Not Found</span>
+            <span id="tit">403-unauthorized</span>
             <div class="animate three" id="animates">
                 <span>-</span>
                 <span>-</span>
                 <span>-</span>
                 <span>您</span>
-                <span>当</span>
-                <span>前</span>
+                <span>没</span>
+                <span>有</span>
+                <span>权</span>
+                <span>限</span>
                 <span>访</span>
                 <span>问</span>
-                <span>的</span>
+                <span>当</span>
+                <span>前</span>
                 <span>页</span>
                 <span>面</span>
-                <span>不</span>
-                <span>存</span>
-                <span>在</span>
                 <span>.</span>
                 <span>.</span>
                 <span>.</span>
